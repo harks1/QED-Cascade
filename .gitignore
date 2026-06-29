@@ -1,0 +1,8 @@
+_skbuild/
+__pycache__/
+*.pyc
+*.so
+.DS_Store
+*.egg-info/
+dist/
+build/
